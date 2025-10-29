@@ -6,5 +6,8 @@
   "scripts": {
     "start": "node src/index.js",
     "dev": "node --watch src/index.js"
+  },
+  "dependencies": {
+    "mongodb": "^5.9.0"
   }
 }
